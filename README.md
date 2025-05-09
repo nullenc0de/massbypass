@@ -37,7 +37,7 @@ massbypass/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/massbypass.git
+git clone https://github.com/nullenc0de/massbypass.git
 cd massbypass
 ```
 
